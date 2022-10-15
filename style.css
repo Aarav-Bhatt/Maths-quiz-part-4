@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background: linear-gradient(lightgreen,darkgreen);
+    font-family: 'Josefin Sans', sans-serif;
+}
+h1 {
+    color: white;
+}
+#d1,#d2 {
+     text-align: center;
+     border: 10px black ridge;
+     background-color: blanchedalmond;
+     width: 60%;
+     border-radius: 20px;
+     margin: 20px;
+     padding: 30px;
+     font-size: 22px;
+     box-shadow: 5px 5px 30px orange;
+     
+}
+
+
+
+
+h2 {
+    color: blueviolet;
+}
+#loginbutn {
+   font-size: 25px;
+   background-color: black;
+   color: aliceblue;
+}
+
+
+    
